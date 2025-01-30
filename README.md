@@ -17,7 +17,7 @@ Gra w Kółko i Krzyżyk stworzona w Pythonie z wykorzystaniem biblioteki **pyga
 
 ---
 
-## Instalacja i uruchomienie 🚀
+## Instalacja i uruchomienie 
 ### Wymagania:
 - **Python 3**
 - **pygame**
